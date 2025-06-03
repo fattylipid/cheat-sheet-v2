@@ -14,3 +14,4 @@ git add: add change in working repo
 git commit: capture snapshot of repo's current stage  
 git push: update remote local repo content to remote repo  
 git pull: pull changes from remote repo to current branch  
+git branch: list, create, or delete branches  
