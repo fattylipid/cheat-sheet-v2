@@ -5,3 +5,4 @@ cd: change directory
 pwd: print working directory  
 mkdir: create new directory  
 rm: remove files and directories  
+cp: copy files and directories  
